@@ -1,0 +1,3 @@
+A={''a},'b','c','d'}
+B={'c','d','e','f'}
+print(A.intersection(B))
